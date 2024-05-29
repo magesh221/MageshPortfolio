@@ -122,7 +122,7 @@ const Navigation = () => {
               </svg>
             </a>
             <a
-              href="https://github.com/kannanbca20021"
+              href="https://github.com/magesh221  "
               className="nav_git nav-flx"
             >
               <svg
